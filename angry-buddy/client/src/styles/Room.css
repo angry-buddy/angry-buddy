@@ -1,0 +1,70 @@
+.room {
+  font-size: 2rem;
+  font-family: "Gothic_Goding";
+}
+
+::-webkit-input-placeholder {
+  font-family: "Gothic_Goding";
+}
+
+.conversation-area{
+    height: 75vh;
+    overflow-y: auto;
+}
+
+.bottom-area {
+  position: fixed;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  bottom: 0;
+  width: 100%;
+  background-color: #ffe396;
+  padding: 20px;
+  box-shadow: 0 -2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.input-text{
+    width: 700px;
+    height: 40px;
+    font-size: 2rem;
+    padding: 10px;
+    border: transparent;
+    border-radius: 12px;
+    font-family: "Gothic_Goding";
+    resize: none;
+}
+
+.icon-btn{
+    background-color: #7fbaae;
+    padding: 10px 12px;
+    margin-left: 20px;
+    border-radius: 12px;
+    width: 60px;
+    height: 60px;
+}
+
+.icon-btn:hover{
+    cursor: pointer;
+    background-color: #4b9e8d;
+}
+
+.my-msg{
+    background-color: white;
+    margin: 10px 400px 10px 700px;
+    font-size: 1.3rem;
+}
+
+.buddy-msg{
+    background-color: #ffe396;
+    margin: 10px 700px 10px 400px;
+    font-size: 1.3rem;
+}
+
+
+li{
+    list-style: none;
+    border: #f2c54b solid 1px;
+    border-radius: 12px;
+    padding: 0.4rem 1rem;
+}

@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+  min-height: 100vh;
+  background-color: #fffcd5;
+}
+
+@font-face {
+  font-family: 'GmarketSansMedium';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/GmarketSansMedium.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Gothic_Goding";
+  src: url("https://cdn.jsdelivr.net/gh/projectnoonnu/naverfont_05@1.0/Gothic_Goding.woff")
+    format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* .App-header {
+  background-color: #7fbaae;
+  color:rgb(255, 255, 255);
+  min-height: 10vh;
+  display: flex;
+  align-items: center;
+  padding: 0 20px;
+  font-size: calc(10px + 2vmin);
+} */

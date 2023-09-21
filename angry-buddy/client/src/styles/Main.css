@@ -1,0 +1,26 @@
+.main {
+  font-size: 4rem;
+}
+
+.msg-box{
+    font-family: "Gothic_Goding";
+    margin-top: 12rem;
+}
+
+.go-btn {
+    font-family: "Gothic_Goding";
+    text-decoration: none;
+    padding: 1rem 3rem;
+    background-color: #ffd255;
+    border: #ffe396 solid 6px;
+    margin-top: 7rem;
+    border-radius: 12px;
+    color: white;
+}
+
+.go-btn:hover {
+    padding: 1rem 3rem;
+    background-color: #529386;
+    border: #7fbaae solid 6px;
+    color: white;
+}
